@@ -11,7 +11,7 @@ function CategoryPage() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    fetch(`http://localhost:5000/api/products/category/${catName}`)
+    fetch(`https://trendyfoods-backend-1.onrender.com/api/products/category/${catName}`)
       .then((res) => res.json())
       .then((data) => setProducts(data))
       .catch((err) => console.error(err));
