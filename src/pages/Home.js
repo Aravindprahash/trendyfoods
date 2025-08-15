@@ -9,7 +9,7 @@ const Home = () => {
   const { searchTerm } = useSearch();
 
   useEffect(() => {
-    axios.get('http://localhost:5000/api/products')
+    axios.get('https://trendyfoods-backend-1.onrender.com/api/products')
       .then(res => setProducts(res.data))
       .catch(err => console.error(err));
   }, []);
