@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a482026.css",
+    "main.js": "/static/js/main.668d1229.js",
+    "static/media/UPI.png": "/static/media/UPI.0fb497d1b7b2e424e7b6.png",
+    "static/media/card.jpg": "/static/media/card.3271c4b05a566e33b1bf.jpg",
+    "index.html": "/index.html",
+    "main.0a482026.css.map": "/static/css/main.0a482026.css.map",
+    "main.668d1229.js.map": "/static/js/main.668d1229.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a482026.css",
+    "static/js/main.668d1229.js"
+  ]
+}
