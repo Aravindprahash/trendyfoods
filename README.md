@@ -18,15 +18,15 @@ API Integration: REST API (for product data)
 
 
 Getting Started
-Clone the repository
+1.Clone the repository
 
 git clone <your-repo-link>
 
-Install dependencies
+2.Install dependencies
 
 npm install
 
-Run the development server
+3.Run the development server
 
 npm start
 
