@@ -1,11 +1,10 @@
-Food Ordering Application
-
+FOOD ORDERING APPLICATION
 A simple and responsive food ordering web application built with React.js, JavaScript, CSS, and Bootstrap.
 It allows users to browse products, view details, add items to the cart, enter customer details, and proceed with a payment flow.
 
 
 
-Features
+FEATURES
 
 - Product listing fetched from REST API using React Hooks
 
@@ -20,14 +19,14 @@ Features
 - Responsive design with Navbar and Footer
 
 
-Tech Stack
+TECH STACK
 
 -Frontend: React.js, JavaScript, CSS, Bootstrap
 
 -API Integration: REST API (for product data)
 
 
-Getting Started
+GETTING STARTED
 
 1.Clone the repository
 
@@ -42,7 +41,7 @@ npm install
 npm start
 
 
-Screenshots
+SCREENSHOTS
 
 Homepage
 <img width="1920" height="1080" alt="Screenshot 2025-08-19 105434" src="https://github.com/user-attachments/assets/cb1ae22e-dfed-48de-9abe-0cedbefdca66" />
