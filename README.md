@@ -6,17 +6,17 @@ It allows users to browse products, view details, add items to the cart, enter c
 
 Features
 
--Product listing fetched from REST API using React Hooks
+- Product listing fetched from REST API using React Hooks
 
-- User friendly navigation with homepage, product detail, and category pages
+- User-friendly navigation with homepage, product detail, and category pages
 
--Shopping cart with add/remove functionality
+- Shopping cart with add/remove functionality
 
--Customer detail and mock payment workflow
+- Customer detail and mock payment workflow
 
--Order confirmation with Thank You page
+- Order confirmation with Thank You page
 
--Responsive design with Navbar and Foot
+- Responsive design with Navbar and Foot
 
 
 Tech Stack
