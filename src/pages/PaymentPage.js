@@ -21,7 +21,7 @@ const PaymentPage = () => {
   const handleSelect = (method) => {
     setSelectedMethod(method.id);
     if (!method.available) {
-      setMaintenanceMsg("Payment mode under maintenance");
+      setMaintenanceMsg("Selected Payment mode under maintenance");
     } else {
       setMaintenanceMsg("");
     }
