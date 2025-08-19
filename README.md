@@ -4,6 +4,7 @@ A simple and responsive food ordering web application built with React.js, JavaS
 It allows users to browse products, view details, add items to the cart, enter customer details, and proceed with a payment flow.
 
 
+
 Features
 
 - Product listing fetched from REST API using React Hooks
@@ -16,7 +17,7 @@ Features
 
 - Order confirmation with Thank You page
 
-- Responsive design with Navbar and Foot
+- Responsive design with Navbar and Footer
 
 
 Tech Stack
