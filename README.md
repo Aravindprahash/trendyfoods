@@ -1,4 +1,5 @@
 FOOD ORDERING APPLICATION
+
 A simple and responsive food ordering web application built with React.js, JavaScript, CSS, and Bootstrap.
 It allows users to browse products, view details, add items to the cart, enter customer details, and proceed with a payment flow.
 
